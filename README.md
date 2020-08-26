@@ -2,7 +2,7 @@
 Modules required to install
 
 In Windows
->pip install PyQt5
+> pip install PyQt5
 >pip install Pillow
 >pip install QDarkStyle
 
